@@ -1,4 +1,10 @@
 @echo off
-cd /d D:\SOC\soc-analyst-portafolio-main\SOC-Analyst-Portfolio
+
 python add_case.py
+python update_index.py
+
+git add .
+git commit -m "New SOC case"
+git push
+
 pause
