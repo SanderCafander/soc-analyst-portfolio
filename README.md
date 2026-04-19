@@ -1,60 +1,13 @@
 # SOC Analyst Portfolio
 
-This repository contains hands-on security investigations based on simulated SOC scenarios.
+Hands-on security case investigations based on simulated SOC scenarios.
 
-## 🚀 Live Dashboard
-View all documented cases here:
-👉 https://sandercafander.github.io/soc-analyst-portfolio/
-
----
-
-## 📊 Overview
-
-This project demonstrates real SOC analyst workflows including:
-
-- Alert triage (True Positive vs False Positive)
-- Phishing investigation
-- Malware analysis
-- Log correlation and validation
-- Incident documentation
-- Evidence handling (screenshots, indicators)
+## 🔗 Live Dashboard
+https://sandercafander.github.io/soc-analyst-portfolio/
 
 ---
 
-## 🧠 Skills Demonstrated
-
-- SIEM alert analysis
-- Email security (SPF, DKIM, spoofing)
-- Endpoint behavior analysis
-- Basic MITRE ATT&CK mapping
-- Security decision-making
-
----
-
-## 🛠️ Workflow
-
-Each case follows a consistent process:
-
-1. Alert received  
-2. Investigation performed  
-3. Verdict determined (TP / FP)  
-4. Action taken  
-5. Evidence documented  
-
----
-
-## ⚙️ Automation
-
-Custom Python scripts are used to:
-
-- Generate case documentation  
-- Organize files automatically  
-- Update the dashboard  
-- Deploy updates to GitHub  
-
----
-
-## 📁 Structure
+## Cases
 
 Cases are organized by category:
 
@@ -64,22 +17,22 @@ Cases are organized by category:
 - Data Exfiltration  
 - False Positives  
 
----
-
-## 📌 Notes
-
-This portfolio focuses on **practical skills and consistency**, not just theory.
-
-All analysis and decisions are performed manually.  
-Automation is used only to improve workflow efficiency.
+Each case includes:
+- Verdict (TP/FP)  
+- Reasoning  
+- Action taken  
+- Supporting evidence (when applicable)
 
 ---
 
-## 🎯 Goal
+## Workflow
 
-To demonstrate readiness for an entry-level SOC Analyst role by showing:
+Cases are documented using a consistent structure and can be viewed through the interactive dashboard.
 
-- Real analysis capability  
-- Clear documentation  
-- Consistent workflow  
-- Hands-on experience  
+---
+
+## Notes
+
+Automation scripts and parts of the dashboard were developed with the assistance of AI tools.
+
+All analysis and final decisions were performed manually.
